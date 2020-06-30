@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[11],{127:function(s,a,p){s.exports=p.p+"static/media/Droid control ship.5061dab9.jpg"}}]);
+//# sourceMappingURL=11.613e12ce.chunk.js.map

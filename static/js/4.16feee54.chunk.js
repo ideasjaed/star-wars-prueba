@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[4],{120:function(s,a,p){s.exports=p.p+"static/media/AA-9 Coruscant freighter.5ccb5f28.jpg"}}]);
+//# sourceMappingURL=4.16feee54.chunk.js.map

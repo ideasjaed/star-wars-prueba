@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[40],{156:function(a,s,p){a.exports=p.p+"static/media/image-corvet.c8a34c1d.jpg"}}]);
+//# sourceMappingURL=40.15eedc07.chunk.js.map

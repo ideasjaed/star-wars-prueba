@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[20],{136:function(a,s,p){a.exports=p.p+"static/media/Naboo Royal Starship.c493bd03.jpg"}}]);
+//# sourceMappingURL=20.abd54feb.chunk.js.map

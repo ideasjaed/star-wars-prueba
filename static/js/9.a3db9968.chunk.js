@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[9],{125:function(a,s,p){a.exports=p.p+"static/media/Calamari Cruiser.8b135639.jpg"}}]);
+//# sourceMappingURL=9.a3db9968.chunk.js.map

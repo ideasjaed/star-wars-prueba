@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[5],{121:function(s,a,p){s.exports=p.p+"static/media/B-wing.29498378.jpg"}}]);
+//# sourceMappingURL=5.b0cbc534.chunk.js.map

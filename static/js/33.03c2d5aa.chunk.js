@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[33],{149:function(s,a,t){s.exports=t.p+"static/media/Theta-class T-2c shuttle.8e8db94f.jpg"}}]);
+//# sourceMappingURL=33.03c2d5aa.chunk.js.map

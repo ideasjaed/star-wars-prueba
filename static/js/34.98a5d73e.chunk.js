@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[34],{150:function(a,s,e){a.exports=e.p+"static/media/Trade Federation cruiser.b4e07530.jpg"}}]);
+//# sourceMappingURL=34.98a5d73e.chunk.js.map

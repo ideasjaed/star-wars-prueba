@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[21],{137:function(a,s,p){a.exports=p.p+"static/media/Naboo fighter.6c95588f.jpg"}}]);
+//# sourceMappingURL=21.4060513d.chunk.js.map

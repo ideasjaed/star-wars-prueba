@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[18],{134:function(s,a,p){s.exports=p.p+"static/media/Jedi starfighter.b76b1fb8.jpg"}}]);
+//# sourceMappingURL=18.977eef41.chunk.js.map

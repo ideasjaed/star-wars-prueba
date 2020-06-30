@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[19],{135:function(a,s,p){a.exports=p.p+"static/media/Millennium Falcon.569a79d7.jpg"}}]);
+//# sourceMappingURL=19.7a799563.chunk.js.map

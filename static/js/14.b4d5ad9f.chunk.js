@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[14],{130:function(a,p,s){a.exports=s.p+"static/media/H-type Nubian yacht.9c1ccb66.jpg"}}]);
+//# sourceMappingURL=14.b4d5ad9f.chunk.js.map

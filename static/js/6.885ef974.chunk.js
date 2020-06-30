@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[6],{122:function(a,s,p){a.exports=p.p+"static/media/Banking clan frigte.53a76360.jpg"}}]);
+//# sourceMappingURL=6.885ef974.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[28],{144:function(a,s,p){a.exports=p.p+"static/media/Sentinel-class landing craft.9c94bdbc.jpg"}}]);
+//# sourceMappingURL=28.c62cd8d9.chunk.js.map

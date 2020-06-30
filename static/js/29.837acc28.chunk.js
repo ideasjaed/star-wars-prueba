@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[29],{145:function(a,s,p){a.exports=p.p+"static/media/Slave 1.2d324f24.jpg"}}]);
+//# sourceMappingURL=29.837acc28.chunk.js.map

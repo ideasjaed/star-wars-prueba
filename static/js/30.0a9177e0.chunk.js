@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[30],{146:function(a,s,p){a.exports=p.p+"static/media/Solar Sailer.6bce47ad.jpg"}}]);
+//# sourceMappingURL=30.0a9177e0.chunk.js.map

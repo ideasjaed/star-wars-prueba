@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[38],{154:function(a,s,p){a.exports=p.p+"static/media/arc-170.153c22fc.jpg"}}]);
+//# sourceMappingURL=38.01bae5f8.chunk.js.map

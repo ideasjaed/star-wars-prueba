@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[27],{143:function(a,s,p){a.exports=p.p+"static/media/Scimitar.46068ed7.jpg"}}]);
+//# sourceMappingURL=27.84308cb5.chunk.js.map

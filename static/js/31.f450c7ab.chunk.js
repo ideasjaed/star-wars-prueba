@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[31],{147:function(s,a,p){s.exports=p.p+"static/media/Star Destroyer.c518d2f8.jpg"}}]);
+//# sourceMappingURL=31.f450c7ab.chunk.js.map

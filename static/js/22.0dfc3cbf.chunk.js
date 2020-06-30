@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[22],{138:function(a,s,p){a.exports=p.p+"static/media/Naboo star skiff.f48b63af.jpg"}}]);
+//# sourceMappingURL=22.0dfc3cbf.chunk.js.map

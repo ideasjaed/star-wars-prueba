@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[17],{133:function(a,p,s){a.exports=s.p+"static/media/Jedi Interceptor.14ae176b.jpg"}}]);
+//# sourceMappingURL=17.16c05334.chunk.js.map

@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[32],{148:function(a,s,p){a.exports=p.p+"static/media/TIE Advanced x1.86182056.jpg"}}]);
+//# sourceMappingURL=32.cc3c4ae1.chunk.js.map

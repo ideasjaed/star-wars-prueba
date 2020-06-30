@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[24],{140:function(s,a,p){s.exports=p.p+"static/media/Republic Assault ship.45a16c55.jpg"}}]);
+//# sourceMappingURL=24.ebe43c87.chunk.js.map

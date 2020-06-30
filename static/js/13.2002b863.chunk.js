@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[13],{129:function(a,s,p){a.exports=p.p+"static/media/Executor.d96b00aa.jpg"}}]);
+//# sourceMappingURL=13.2002b863.chunk.js.map

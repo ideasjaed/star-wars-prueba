@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[8],{124:function(s,a,p){s.exports=p.p+"static/media/CR90 corvette.c9044d07.jpg"}}]);
+//# sourceMappingURL=8.3d39a66e.chunk.js.map

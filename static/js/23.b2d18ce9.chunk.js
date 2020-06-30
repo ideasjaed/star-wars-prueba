@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[23],{139:function(s,a,p){s.exports=p.p+"static/media/Rebel transport.b5947dd6.jpg"}}]);
+//# sourceMappingURL=23.b2d18ce9.chunk.js.map

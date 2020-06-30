@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[10],{126:function(a,s,p){a.exports=p.p+"static/media/Death Star.14ad196d.jpg"}}]);
+//# sourceMappingURL=10.c65c723b.chunk.js.map

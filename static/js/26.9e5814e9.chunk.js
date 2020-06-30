@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[26],{142:function(a,s,p){a.exports=p.p+"static/media/Republic attack cruiser.a17d060e.jpg"}}]);
+//# sourceMappingURL=26.9e5814e9.chunk.js.map

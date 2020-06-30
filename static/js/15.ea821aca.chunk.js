@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[15],{131:function(s,a,p){s.exports=p.p+"static/media/Imperial shuttle.79858549.jpg"}}]);
+//# sourceMappingURL=15.ea821aca.chunk.js.map

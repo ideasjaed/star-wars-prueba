@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[12],{128:function(s,a,p){s.exports=p.p+"static/media/EF76 Nebulon-B escort frigate.d7ffd831.jpg"}}]);
+//# sourceMappingURL=12.802b87dc.chunk.js.map

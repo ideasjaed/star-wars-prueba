@@ -1,0 +1,2 @@
+(this["webpackJsonpstar-wars-prueba"]=this["webpackJsonpstar-wars-prueba"]||[]).push([[7],{123:function(a,s,p){a.exports=p.p+"static/media/Belbullab-22 starfighter.2df962f2.jpg"}}]);
+//# sourceMappingURL=7.2cc7b63c.chunk.js.map
